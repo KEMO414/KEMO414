@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
 
-- 🌱 I’m currently learning ** .NET **
+- 🌱 I’m currently learning **.NET**
 
-- 🌱 I’m currently learning ** React js **
+- 🌱 I’m currently learning **React js**
 
-- 🌱 I’m currently learning ** Desktop Applications**
+- 🌱 I’m currently learning **Desktop Applications**
 
-- 💬 Ask me about ** C# **
+- 💬 Ask me about **C#**
 
-- 📫 How to reach me ** ahmed0a41468158@gmail.com **
+- 📫 How to reach me **ahmed0a41468158@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
