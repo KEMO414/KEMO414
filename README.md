@@ -58,8 +58,5 @@
     </p>
 </article>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KEMO414&" alt="KEMO414" /></p>
