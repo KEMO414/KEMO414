@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
-<h3 align="center">full stack .NET developer</h3>
+<h1 dir="auto" >
+            <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
+                <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
+                    aria-hidden="true">
+                    <path
+                        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
+                    </path>
+                </svg></a>
+            <a target="_blank" rel="noopener noreferrer nofollow"
+                href="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Kamal++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
+                style="max-width: 100%;">
+                <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
+                    alt="Typing SVG"
+                    data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
+                    style="max-width: 100%;">
+            </a>
+        </h1>
 <img  align="right" alt ="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
@@ -32,23 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KEMO414&" alt="KEMO414" /></p>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-        <h1 dir="auto" >
-            <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
-                <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                    aria-hidden="true">
-                    <path
-                        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-                    </path>
-                </svg></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
-                style="max-width: 100%;">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
-                    alt="Typing SVG"
-                    data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
-                    style="max-width: 100%;">
-            </a>
-        </h1>
+        
         <p align="center" dir="auto">
             <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
                   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
