@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KEMO414&show_icons=true&locale=en" alt="KEMO414" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KEMO414&" alt="KEMO414" /></p>
+<hr>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p align="center" dir="auto">
@@ -57,4 +57,9 @@
         </themed-picture>
     </p>
 </article>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KEMO414&" alt="KEMO414" /></p>
