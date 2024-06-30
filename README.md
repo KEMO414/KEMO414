@@ -9,9 +9,9 @@
             <a target="_blank" rel="noopener noreferrer nofollow"
                 href="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Kamal++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
                 style="max-width: 100%;">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
+                <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Kamal++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
                     alt="Typing SVG"
-                    data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
+                    data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Kamal++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
                     style="max-width: 100%;">
             </a>
         </h1>
