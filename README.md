@@ -19,7 +19,7 @@
 
 <img  align="right" alt ="coding" width="400" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+<p align="left"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
 - 🌱 I’m currently learning **.NET**
 
@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **ahmedkamalyoussef4@gmail.com **
+- 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
 
 
 <h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
