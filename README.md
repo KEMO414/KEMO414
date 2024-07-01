@@ -21,12 +21,11 @@
 
 <p align="left"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
-<br>
+<hr>
+
 - 🌱 I’m currently learning .NET
-
 - 🌱 I’m currently learning **React js**
-- - 🌱 I’m currently learning **React Native**
-
+- 🌱 I’m currently learning **React Native**
 - 🌱 I’m currently learning **Desktop Applications**
 
 - 💬 Ask me about **C#**
