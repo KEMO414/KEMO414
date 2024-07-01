@@ -116,7 +116,7 @@
 
   
   <a href="https://codeforces.com/" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png](https://th.bing.com/th/id/R.c81fe8293f44c3f2cd90a384b0d0f74c?rik=cuw7X%2bJZX%2brOPA&pid=ImgRaw&r=0&sres=1&sresct=1)" alt="codeforces" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" alt="codeforces" width="40" height="40"/>
   </a>
 
 
