@@ -54,9 +54,9 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KEMO414&" alt="KEMO414" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KEMO414&show_icons=true&locale=en&layout=compact" alt="KEMO414" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KEMO414&show_icons=true&locale=en" alt="KEMO414" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KEMO414&show_icons=true&locale=en&layout=compact" alt="KEMO414" /></p>
 
 <hr>
 
