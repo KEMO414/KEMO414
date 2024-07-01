@@ -91,10 +91,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/64440621?s=200&v=4" alt="blazor" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mvc/mvc-original.svg" alt="mvc" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-original.svg" alt="codeforces" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" alt="codeforces" width="40" height="40"/>
   </a>
   <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" width="40" height="40"/>
