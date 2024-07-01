@@ -91,8 +91,9 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/64440621?s=200&v=4" alt="blazor" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
   </a>
+
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
