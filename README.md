@@ -25,6 +25,7 @@
 - 🌱 I’m currently learning .NET
 
 - 🌱 I’m currently learning **React js**
+- - 🌱 I’m currently learning **React Native**
 
 - 🌱 I’m currently learning **Desktop Applications**
 
