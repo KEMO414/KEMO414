@@ -16,7 +16,7 @@
             </a>
         </h1>
 <img  align="right" alt ="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
 
