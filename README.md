@@ -21,7 +21,8 @@
 
 <p align="left"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
-- 🌱 I’m currently learning **.NET**
+<br>
+- 🌱 I’m currently learning .NET
 
 - 🌱 I’m currently learning **React js**
 
@@ -32,13 +33,13 @@
 - 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
 
 
-<h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
  Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-kamal-b51621277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemo" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028844448220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kemo" height="30" width="40" /></a>
 
-
+ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages & Tools
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
