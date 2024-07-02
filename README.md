@@ -61,7 +61,7 @@
   
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.eJ2PfTSJXS8ygfnIZklIfwHaER?rs=1&pid=ImgDetMain" alt="bootstrap" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.76984d489016bb78c8c347e661bb8e94?rik=v6h54jhMOjGWxg&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f62a76492bd73a4af5c5d4fb9.png&ehk=CCD7CF%2fzwR7i%2bBDVkut8Jbuzx%2bibavojdYkrIJG2PIc%3d&risl=&pid=ImgRaw&r=0" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://path-to-your-white-icons/github-white.svg" alt="github" width="40" height="40"/>
