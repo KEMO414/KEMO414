@@ -55,14 +55,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   
-
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.imgbin.com/6/8/7/imgbin-github-pages-logo-repository-fork-github-iJ1bVeFUpQGg1NTLwP73yx1Jw.jpg" alt="github" width="40" height="40"/>
-</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.76984d489016bb78c8c347e661bb8e94?rik=v6h54jhMOjGWxg&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f62a76492bd73a4af5c5d4fb9.png&ehk=CCD7CF%2fzwR7i%2bBDVkut8Jbuzx%2bibavojdYkrIJG2PIc%3d&risl=&pid=ImgRaw&r=0" alt="bootstrap" width="40" height="40"/>
 </a>
@@ -156,6 +149,16 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   </a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/brand-github-icon-1024x1024-w6a261tr.png" alt="github" width="40" height="40"/>
+</a>
+  
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
