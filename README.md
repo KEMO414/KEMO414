@@ -61,7 +61,7 @@
   
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://path-to-your-white-icons/bootstrap-white.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.eJ2PfTSJXS8ygfnIZklIfwHaER?rs=1&pid=ImgDetMain" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://path-to-your-white-icons/github-white.svg" alt="github" width="40" height="40"/>
