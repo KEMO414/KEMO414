@@ -1,3 +1,4 @@
+<p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me </p>
 <h1 dir="auto" >
             <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
                 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -19,9 +20,8 @@
 
 <img  align="right" alt ="coding" width="400" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
-<p align="left"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
-<hr>
 
 - 🌱 I’m currently learning .NET
 - 🌱 I’m currently learning **React js**
