@@ -109,7 +109,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
   </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/54/251/png-transparent-microsoft-sql-server-microsoft-system-center-configuration-manager-system-center-virtual-machine-manager-database-microsoft-angle-white-windows-server-thumbnail.png" alt="sql" width="40" height="40"/>
+  <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="sql" width="40" height="40"/>
 </a>
 
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
