@@ -193,3 +193,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KEMO414&show_icons=true&locale=en&layout=compact" alt="KEMO414" /></p>
 
 <hr>
+<img src="https://github-profile-trophy.vercel.app/?username=KEMO414" alt="KEMO414" /></a>
