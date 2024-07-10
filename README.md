@@ -1,4 +1,4 @@
-//<p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%><br>About me  </p>
+/*<p align="center"><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%><br>About me  </p>*/
 <h1 dir="auto" >
             <a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#">
                 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
