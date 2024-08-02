@@ -191,3 +191,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkamalyoussef&show_icons=true&locale=en&layout=compact" alt="KEMO414" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedkamalyoussef)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ahmedkamalyoussef&column=10&theme=gruvbox&no-frame=true"/>
+</a>
