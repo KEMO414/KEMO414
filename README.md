@@ -183,14 +183,24 @@
         </themed-picture>
     </p>
 </article>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/Mohamed-7agag/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmedkamalyoussef's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkamalyoussef&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<a href="https://github.com/ahmedkamalyoussef/github-readme-stats"><img alt="ahmed kamal Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedkamalyoussef&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ahmedkamalyoussef/github-readme-stats"><img alt="ahmedkamalyoussef Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkamalyoussef&langs_count=5&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkamalyoussef&" alt="KEMO414" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkamalyoussef&show_icons=true&locale=en" alt="KEMO414" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkamalyoussef&show_icons=true&locale=en&layout=compact" alt="KEMO414" /></p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedkamalyoussef)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
